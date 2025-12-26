@@ -1,6 +1,6 @@
 # LoL script
 this This script has a lot of cool features, Use it but don't harm other players.
-![Alt text](images/maxresdeafult.png)
+images/maxresdeafult.png
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
