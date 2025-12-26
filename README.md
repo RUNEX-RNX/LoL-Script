@@ -5,7 +5,7 @@ images/maxresdeafult.png
 <br />
 <p align="center">
   </a>
-   <img src="https://github.com/RUNEX-RNX/Images/blob/main/maxresdefault.png" alt="Logo" width="200" height="200">
+   <img src="https://github.com/RUNEX-RNX/Images/blob/main/maxresdefault.png" alt="Logo" width="300" height="300">
   </a>
 
 <!-- How to use -->
