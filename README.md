@@ -4,7 +4,7 @@ this This script has a lot of cool features, Use it but don't harm other players
 <br />
 <p align="center">
   </a>
-   <img src="https://github.com/DaEpicSwag/funni/blob/main/D7C73976-6EF8-4205-A31D-899FC0E92229.gif" alt="Logo" width="200" height="200">
+   <img src="https://github.com/RUNEX-RNX/Images/blob/main/IMG_20251226_194933.jpg" alt="Logo" width="200" height="200">
   </a>
 
 <!--How to use-->
