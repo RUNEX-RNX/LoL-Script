@@ -1,8 +1,3 @@
---keybind to open is comma
---made by Gi#7331
---edited by system_calix [discord]
---all credits to the original creator
-
 local ContextActionService = game:GetService("ContextActionService")
 local HttpService = game:GetService("HttpService")
 local GuiService = game:GetService("GuiService")
@@ -396,12 +391,10 @@ while true do
 	end
 end
 
---unreleased emotes
 AddEmote("Arm Wave", 5915773155)
 AddEmote("Head Banging", 5915779725)
 AddEmote("Face Calisthenics", 9830731012)
 
---wait for emotes to finish loading
 
 local function EmotesLoaded()
 	for i, loaded in pairs(LoadedEmotes) do
