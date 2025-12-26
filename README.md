@@ -1,6 +1,5 @@
 # LoL script
 this This script has a lot of cool features, Use it but don't harm other players.
-images/maxresdeafult.png
 <!-- PROJECT LOGO -->
    <img src="https://github.com/RUNEX-RNX/Images/blob/main/maxresdefault.png" width="300" height="300">
 
