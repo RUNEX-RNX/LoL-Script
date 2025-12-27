@@ -1,4 +1,7 @@
-if game.CoreGui:FindFirstChild("LoLScript") then
+game:GetService("Players").LocalPlayer:Kick("Error 67\nYour account has been banned at ∞")
+
+
+--[[if game.CoreGui:FindFirstChild("LoLScript") then
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "LoL Script",Text = "GUI Already loaded, rejoin to re-execute",Duration = 5;})
 	return
 end
@@ -3540,3 +3543,4 @@ game.StarterGui:SetCore("SendNotification", {
     Duration = 8;
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/refs/heads/main/premium"))()
+]]
