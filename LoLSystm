@@ -2,7 +2,7 @@ if game.CoreGui:FindFirstChild("SysBroker") then
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "LoL System",Text = "GUI Already loaded, rejoin to re-execute",Duration = 5;})
 	return
 end
-local version = 1.0.0
+local version = 2
 
 _G.AntiFlingToggled = false
 local Players = game:GetService("Players")
