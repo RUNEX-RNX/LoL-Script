@@ -3534,9 +3534,7 @@ game:GetService("UserInputService").InputBegan:Connect(function(input,gameProces
 	end
 end)
 
-game.StarterGui:SetCore("SendNotification", {
-    Title = "LoL System\nRUNEX project";
-    Text = "\nGood Luck have Fun";
-    Duration = 8;
+SendNotify("LoL System","Developer RUNEX \nTelegram RUNEX X SCRIPT",10)
+setclipboard("https://t.me/RUNEX_X_SCRIPT")
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/refs/heads/main/premium"))() 
