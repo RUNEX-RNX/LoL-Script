@@ -25,4 +25,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/
       •
 [Developer 2 Profile](https://t.me/KFS_sigma)
 
-[Raw Project](https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/refs/heads/main/LoL%20System)
+[Raw Project](https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/refs/heads/main/LoLSystm)
