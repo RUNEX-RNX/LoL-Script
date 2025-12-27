@@ -13,7 +13,7 @@ Copy the script and download any cheat preferably Delta. You can download it her
 After that, look for the features you need and enable them!
 Copy Script!
 ```LoL script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/refs/heads/main/script"))("t.me/RUNEX_X_SCRIPT")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/refs/heads/main/LoL%20System"))("t.me/RUNEX_X_SCRIPT")
 ```
 <!-- CONTACT -->
 ## Contact
