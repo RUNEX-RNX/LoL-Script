@@ -2,7 +2,7 @@ if game.CoreGui:FindFirstChild("SysBroker") then
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "LoL System",Text = "GUI Already loaded, rejoin to re-execute",Duration = 5;})
 	return
 end
-local version = 1.0.4
+local version = 2
 
 _G.AntiFlingToggled = false
 local Players = game:GetService("Players")
@@ -3398,7 +3398,7 @@ Night_Button.MouseButton1Click:Connect(function()
 	if Shaders_Button.Ticket_Asset.ImageColor3 == Color3.fromRGB(255,0,0) then
 		game:GetService("Lighting").ClockTime = 19
 	else
-		SendNotify("System Broken","Please turn off shaders.",5)
+		SendNotify("LoL System","Please turn off shaders.",5)
 	end
 end)
 
@@ -3510,7 +3510,7 @@ end)
 task.spawn(function()
 	while task.wait(10) do
 		pcall(function()
-			local GuiVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/RUNEX-RNX/LoL-Script/main/version"))()
+			local GuiVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/version"))()
 			if version<GuiVersion then
 				SendNotify("System Broken","You are not using the latest version, please run the script again.",5)
 				task.wait(5)
